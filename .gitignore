@@ -1,0 +1,4 @@
+.terraform
+terraform.tfstate*
+nginx-ssh-key*
+node_modules
